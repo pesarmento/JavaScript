@@ -1,7 +1,7 @@
 /**
  * APP Health
  * @author Pedro Sarmento
- * https://joseassis.com.br
+ * https://github.com/pesarmento
  */
 
 // imc (índice de massa corporal)
